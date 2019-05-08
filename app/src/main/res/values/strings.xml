@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">boardingpages</string>
+    <string name="my_pref">"umair"</string>
+    <string name="my_pref_key">"prefkey"</string>
+</resources>
